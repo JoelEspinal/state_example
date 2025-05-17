@@ -1,0 +1,2 @@
+/Users/joelespinal/dev/flutter/riverpod_example/android/app/.cxx/Debug/q4k3a3n3/x86/CMakeFiles/edit_cache.dir
+/Users/joelespinal/dev/flutter/riverpod_example/android/app/.cxx/Debug/q4k3a3n3/x86/CMakeFiles/rebuild_cache.dir
